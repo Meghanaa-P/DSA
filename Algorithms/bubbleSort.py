@@ -1,3 +1,4 @@
+# to commit in the terminal ::1 git add . 2 git commit -m "initial commit" 
 #Go through the array, one value at a time.
 #For each value, compare the value with the next value.
 #If the value is higher than the next one, swap the values so that the highest value comes last.
