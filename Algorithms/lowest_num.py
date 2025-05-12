@@ -1,3 +1,9 @@
+# to commit in the terminal 
+# git add .
+# git commit -m "your message here"
+# git push
+
+
 array_num=[7,9,1,3,5,6]
 minVal=array_num[0]
 for i in array_num:
