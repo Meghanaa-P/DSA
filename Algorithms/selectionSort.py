@@ -12,3 +12,5 @@ for i in range(n-1):
     arr[i], arr[min_index] = arr[min_index], arr[i]
 
 print(f"Sorted array: {arr}")
+
+#time complexity  O(n/2*n)=O(n square)
